@@ -14,5 +14,53 @@
     "category": "marketing",
     "source": "ezerai",
     "verified": true
+  },
+  {
+    "id": "n17820491337853128",
+    "text": "# CTR 최적화 합성 지식\n---\nid: SYNTHESIS-1782049133773\ntitle: \"CTR 최적화 합성 지식 (A/B 토론 기반)\"\ncategory: \"10_Wiki/🚀 Skills/A.U_Synthesis\"\nauthor: \"Matrix Arena\"\n---\n# 🧠 아레나 합성 지식: 유튜브 CTR 돌파 전략\n\n*“I know Kung Fu...”* — Neural upload successful.\n\n## 📌 아레나 최종 결론 (Synthesis)\n> 하이 컨셉(극한의 상황 설정)과 로우 레벨 최적화(표정 비대칭성, 시각적 대비)를 동시에 결합해야만 CTR 15%의 장벽을 뚫을 수 있습니다.\n\n## ⚔️ 토론 핵심 요약\n- **Agent A (논리):** 사용자의 기대 심리 조작과 명확한 Stakes(리스크) 부재 지적.\n- **Agent B (크리에이티브):** 0.2초를 지배하는 픽셀 단위의 시각적 계층 구조 및 색채 대비 강조.\n\n## 🛠️ 즉시 실행 행동 강령 (Action Items)\n1. 썸네일 내 인물의 안면 근육 불균형을 의도적으로 연출하여 도파민 분비 유도.\n2. 텍스트를 완전히 제거하고 배경과 피사체의 대비(Contrast)를 3배율로 상승.\n3. 시청자가 영상을 보지 않았을 때 느낄 '치명적 손실(FOMO)'을 직관적으로 시각화.",
+    "tags": [
+      "ctr",
+      "최적화",
+      "합성",
+      "지식",
+      "synthesis",
+      "대비"
+    ],
+    "ts": 1782049133785,
+    "category": "marketing",
+    "source": "ezerai",
+    "verified": true
+  },
+  {
+    "id": "n17820492705418341",
+    "text": "# MrBeast 후킹 로직\n# MrBeast 후킹 로직 분석\n\n## 핵심 패턴\n- **첫 5초**: 충격적 행동·결과 미리보기 (\"우리는 이 사람에게 100만 달러를 줬어요...\")\n- **5~30초**: 위기 설정·이해관계 명시 (\"...하지만 조건이 있죠.\")\n- **고밀도 컷**: 평균 1.5초당 1컷, 시선 못 떼게\n- **숫자 강조**: 항상 구체적 수치 (\"100만 달러\", \"24시간\", \"7명\")\n\n## 적용 체크리스트\n- [ ] 첫 5초에 결과 미리보기 있나?\n- [ ] 시청자가 \"이게 진짜?\" 의심하게 만드나?\n- [ ] 30초 안에 위기·이해관계 명확한가?\n- [ ] 컷 평균 길이가 2초 이하인가?",
+    "tags": [
+      "100",
+      "mrbeast",
+      "후킹",
+      "로직",
+      "결과",
+      "미리보기"
+    ],
+    "ts": 1782049270541,
+    "category": "marketing",
+    "source": "ezerai",
+    "verified": true
+  },
+  {
+    "id": "n17820492817374404",
+    "text": "# 스킬: 🎬 후킹 분석기\n본인 채널 최근 영상의 첫 30초 후킹 패턴을 자동 분석.\n실행 가능한 파이썬 스킬: <run>python3 \"C:\\Users\\enduser\\Desktop\\connect-ai-packs\\스킬\\youtube\\hook_analyzer.py\"</run>",
+    "tags": [
+      "스킬",
+      "후킹",
+      "run",
+      "분석기",
+      "본인",
+      "채널"
+    ],
+    "ts": 1782049281737,
+    "category": "marketing",
+    "source": "ezerai",
+    "verified": true
   }
 ]
